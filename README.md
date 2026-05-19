@@ -9,7 +9,7 @@ Figma,
 Adobe XD,
 Photoshop  
 
-A Bit About me 
-Powered by tea , music, and questionable sleep schedules 
-Designing apps people actually enjoy using
+A Bit About me :
+Powered by tea , music, and questionable sleep schedules ,
+Designing apps people actually enjoy using,
 Turning “make it pop” into real designs 
