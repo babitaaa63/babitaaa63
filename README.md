@@ -1,16 +1,15 @@
 ## Hi there 👋
+I am Babita, ui/ux designer based in Nepal 
+I’m a UI/UX designer who loves creating visually engaging and meaningful digital products.
+Focused on minimal aesthetics, smooth user experiences, and modern interface design.
+Always learning, experimenting, and building creative ideas into reality.
+Tools & Skills
 
-<!--
-**babitaaa63/babitaaa63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Figma
+Adobe XD
+Photoshop  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Bit About me 
+Powered by tea , music, and questionable sleep schedules 
+Designing apps people actually enjoy using
+Turning “make it pop” into real designs 
