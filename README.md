@@ -4,9 +4,9 @@ I’m a UI/UX designer who loves creating visually engaging and meaningful digit
 Focused on minimal aesthetics, smooth user experiences, and modern interface design.
 Always learning, experimenting, and building creative ideas into reality. 
 
-Tools & Skills
-Figma
-Adobe XD
+Tools & Skills :
+Figma,
+Adobe XD,
 Photoshop  
 
 A Bit About me 
